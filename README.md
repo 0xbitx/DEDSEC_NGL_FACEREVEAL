@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://github.com/0xbitx/DEDSEC_NGL_FACEREVEAL/blob/main/banner.png", width="500", height="500">
 </p>
-<h1 align="center"> DDEDSEC_NGL_FACEREVEAL</h1>
+<h1 align="center"> DEDSEC_NGL_FACEREVEAL</h1>
 <h4 align="center">DEDSEC_NGL_FACEREVEAL is a NGL tool that can take a front camera shot to a sender device, then send automatically to your discord server</h4>
 
 ### INSTALLATION [KALI - PARROT - TERMUX]
