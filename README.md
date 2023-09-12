@@ -9,13 +9,13 @@
 * git clone https://github.com/0xbitx/DEDSEC_NGL_FACEREVEAL.git
 * cd DEDSEC_NGL_FACEREVEAL
 * pip3 install pystyle
-* python3 dedsec_ngl_facereveal.py
+* sudo python3 dedsec_ngl_facereveal.py
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
-* Termux App
+* Termux (rootes)
 
 ### LANGUAGE 
 * Python
