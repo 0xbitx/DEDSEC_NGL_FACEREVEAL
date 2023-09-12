@@ -15,7 +15,7 @@
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
-* Termux (rootes)
+* Termux (rooted)
 
 ### LANGUAGE 
 * Python
