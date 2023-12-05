@@ -8,8 +8,8 @@
 ### INSTALLATION [KALI - PARROT - TERMUX]
 * git clone https://github.com/0xbitx/DEDSEC_NGL_FACEREVEAL.git
 * cd DEDSEC_NGL_FACEREVEAL
-* pip3 install pystyle pycryptodome tabulate
-* sudo python3 dedsec_ngl_facereveal.py
+* pip3 install pystyle tabulate
+* sudo ./dedsec_ngl_facereveal
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
