@@ -8,7 +8,8 @@
 ### INSTALLATION [KALI - PARROT - TERMUX]
 * git clone https://github.com/0xbitx/DEDSEC_NGL_FACEREVEAL.git
 * cd DEDSEC_NGL_FACEREVEAL
-* pip3 install pystyle tabulate
+* pip3 install pystyle
+* chmod +x dedsec_ngl_facereveal
 * sudo ./dedsec_ngl_facereveal
 
 ### TESTED ON FOLLOWING
